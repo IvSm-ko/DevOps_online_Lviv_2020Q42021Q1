@@ -30,7 +30,6 @@ The results of the task were transferred to a remote repository on GitHub.
 
 ![image](./images/image.png)
 
-I apologize for the errors in the image files names.
 ___
 
 
