@@ -22,13 +22,13 @@ following commands were used in the process of performing the task:
 
 The results of the task were transferred to a remote repository on GitHub.
 
-![image](m1/task1.1/images/git_init.png)
+![image](./images/git_init.png)
 
 
-![image](m1/task1.1/images/git_add_branch_images.png) 
+![image](./images/git_add_branch_images.png) 
 
 
-![image](m1/task1.1/images/image.png)
+![image](./images/image.png)
 
 I apologize for the errors in the image files names.
 ___
