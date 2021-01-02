@@ -47,6 +47,6 @@ This is all because I acted solely according to the instructions. And in it it i
 
 #### Thanks!
 
-P.S. project files are saved in a folder [***m1/task4.3/project***](./project/)
+P.S. project file is saved in a folder [***m1/task4.3/project***](./project/)
 
 
