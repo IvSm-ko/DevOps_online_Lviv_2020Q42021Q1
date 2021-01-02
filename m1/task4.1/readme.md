@@ -6,7 +6,7 @@
 
 In this task, I will work in a data network simulator - Cisco Packet Tracer, developed by Cisco Systems.
 
-To begin with, I put together a project that connects 4 PCs connected by a hub (*Hub-PT*). Enter a specific IP address for each PC according to the table.
+To begin with, I put together a project that connects 4 PCs connected by a *Hub-PT*. Enter a specific IP address for each PC according to the table.
 
 ![image](./images/IP.png)
 
@@ -58,14 +58,14 @@ However, a closer look shows that there are numerous collisions and packet losse
 
 ![image](./images/PC2-PC4_collision(3).png)
 
-I am creating the following project, which includes: 4 PCs, such as *PC-PT*, Switch (*Switch*). Each computer must be connected to the hub using twisted pair (*copper straight through*).
+I am creating the following project, which includes: 4 PCs, such as *PC-PT*, *Switch*. Each computer must be connected to the hub using twisted pair (*copper straight through*).
 
 ![image](./images/IP_Switch-PC0.png)
 
 Unlike a hub network scheme, this network works to transmit packets only from recipient to recipient and back. All other PCs do not receive packages. we can see it in the right part (*Event List*) in the picture above.
 
 
-I am expanding the project to the next. It includes: 8 PCs *PC-PT*, 2 switches (*Switch*). Each computer is connected to the switch by means of twisted pair (*copper direct through*), switches are connected by a cross cable (*copper cross*)
+I am expanding the project to the next. It includes: 8 PCs (*PC-PT*), 2 *Switches*. Each computer is connected to the switch by means of twisted pair (*copper direct through*), switches are connected by a cross cable (*copper cross*)
 
 ![image](./images/4.1_4(1).png)
 
@@ -75,7 +75,7 @@ As we can see, everything is working properly. Packets are transmitted from dest
 
 ![image](./images/4.1_4(3).png)
 
-I divide the existing network into two levels of subnets. And I connect them with a router *Router-PT* with multiple ports. I connect the router and switches to each other using fiber (*Fiber*). Prescribe to the new PC IP addresses from the network *192.168.1.0/24*. And for all PCs we prescribe Default Gateway according to which port of the Router the Switch is connected.
+I divide the existing network into two levels of subnets. And I connect them with a router (*Router-PT*) with multiple ports. I connect the router and switches to each other using *Fiber*. Prescribe to the new PC IP addresses from the network *192.168.1.0/24*. And for all PCs we prescribe Default Gateway according to which port of the Router the Switch is connected.
 We also prescribe routing on the Router so that PCs from the *192.168.0.1* network have the opportunity to send data to the PC of the new network and vice versa.
 
 ![image](./images/4.1_5_routing.png)
