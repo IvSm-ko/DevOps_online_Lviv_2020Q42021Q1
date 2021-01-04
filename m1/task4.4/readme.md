@@ -59,6 +59,6 @@ Cisco Packet Tracer is a great tool for such works.
 
 #### Thanks!
 
-P.S. project file is saved in a folder [***m1/task4.4/project***](./project/)
+P.S. projects files are saved in a folder [***m1/task4.4/projects***](./projects/)
 
 
