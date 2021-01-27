@@ -114,13 +114,13 @@ To unlock user in Linux system we can use a the same commands but with others ke
 
 11) We can use the **ls -l** command to list the extended format of information about the directory. It shows the contents of the directory in a table format with columns including:
 
-1) *content permissions* (for ***ugo***) *+ sticky bits*;
-2) *number of links to the content*;
-3) *owner of the content*;
-4) *group owner of the content*;
-5) *size of the content in bytes*;
-6) *last modified date/time of the content*
-7) *file or directory name*.
+   - *content permissions* (for ***ugo***) *+ sticky bits*;
+   - *number of links to the content*;
+   - *owner of the content*;
+   - *group owner of the content*;
+   - *size of the content in bytes*;
+   - *last modified date/time of the content*
+   - *file or directory name*.
 
 <p align="center">
 <img src ="./images/5.2_Home_dir.png" alt="Home_dir">
